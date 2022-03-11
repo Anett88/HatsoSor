@@ -6,7 +6,7 @@ public class HasoSorConf {
 
 
         String nev1 = "TV";
-        String nev2; 
+        String nev2="ákos"; 
         String nev3="Anett";
 
     }
